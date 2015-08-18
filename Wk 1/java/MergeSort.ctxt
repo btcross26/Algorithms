@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MergeSort()
+comment1.params=
+comment1.target=void\ resetInversions()
+comment2.params=array\ left_ind\ right_ind
+comment2.target=java.util.ArrayList\ merge_sort(java.util.ArrayList,\ int,\ int)
+comment3.params=left\ right
+comment3.target=java.util.ArrayList\ merge(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=void\ testing()
+comment6.params=filename
+comment6.target=java.util.ArrayList\ readFile(java.lang.String)
+numComments=7

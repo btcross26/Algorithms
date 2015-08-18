@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tail\ head
+comment0.target=Uedge(int,\ int)
+comment1.params=
+comment1.target=Uedge\ clone()
+comment2.params=edge
+comment2.target=boolean\ selfLoop(Uedge)
+numComments=3
