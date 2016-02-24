@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tail\ head\ weight
+comment0.target=Edge(int,\ int,\ int)
+comment1.params=other
+comment1.target=int\ compareTo(Edge)
+comment2.params=
+comment2.target=int\ get_tail()
+comment3.params=
+comment3.target=int\ get_head()
+comment4.params=
+comment4.target=int\ get_weight()
+numComments=5

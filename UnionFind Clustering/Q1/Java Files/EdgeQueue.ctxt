@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=EdgeQueue(java.lang.String)
+comment1.params=
+comment1.target=Edge\ pop()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=int\ num_nodes()
+numComments=4
