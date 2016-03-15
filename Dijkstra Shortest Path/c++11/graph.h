@@ -6,6 +6,7 @@
 #include <vector>
 #include <queue>
 
+// undirected graph, edges are handled accordingly
 template<typename T>
 class Graph {
     public:

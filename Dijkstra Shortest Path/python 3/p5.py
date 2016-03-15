@@ -26,6 +26,10 @@ class Edge(object):
 
         
 class Graph(object):
+    '''
+    Undirected graph, edges are handled accordingly
+    '''
+    
     def __init__(self):
         self.alist = dict()
         self.edge_list = []

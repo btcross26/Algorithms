@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.io.*;
 
+// undirected graph, edges are handled accordingly
 public class Graph
 {
     private HashMap<Integer, ArrayList<Edge> > alist;
